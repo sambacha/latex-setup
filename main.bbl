@@ -1,0 +1,1400 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{117}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Adams}{Adams}{2019}]%
+        {adams2019uniswap}
+\bibfield{author}{\bibinfo{person}{Hayden Adams}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Uniswap}.
+\newblock \bibinfo{journal}{\emph{URl: https://uniswap.org/docs}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Adams, Zinsmeister, Salem, Keefer, and
+  Robinson}{Adams et~al\mbox{.}}{2021}]%
+        {adams2021uniswap}
+\bibfield{author}{\bibinfo{person}{Hayden Adams}, \bibinfo{person}{Noah
+  Zinsmeister}, \bibinfo{person}{Moody Salem}, \bibinfo{person}{River Keefer},
+  {and} \bibinfo{person}{Dan Robinson}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Uniswap v3 Core}.
+\newblock  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Adler, Berryhill, Veneris, Poulos, Veira, and
+  Kastania}{Adler et~al\mbox{.}}{2018}]%
+        {adler2018astraea}
+\bibfield{author}{\bibinfo{person}{John Adler}, \bibinfo{person}{Ryan
+  Berryhill}, \bibinfo{person}{Andreas Veneris}, \bibinfo{person}{Zissis
+  Poulos}, \bibinfo{person}{Neil Veira}, {and} \bibinfo{person}{Anastasia
+  Kastania}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Astraea: A decentralized blockchain oracle}. In
+  \bibinfo{booktitle}{\emph{2018 IEEE International Conference on Internet of
+  Things (iThings) and IEEE Green Computing and Communications (GreenCom) and
+  IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data
+  (SmartData)}}. IEEE, \bibinfo{pages}{1145--1152}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Al-Breiki, Rehman, Salah, and
+  Svetinovic}{Al-Breiki et~al\mbox{.}}{2020}]%
+        {al2020trustworthy}
+\bibfield{author}{\bibinfo{person}{Hamda Al-Breiki}, \bibinfo{person}{Muhammad
+  Habib~Ur Rehman}, \bibinfo{person}{Khaled Salah}, {and}
+  \bibinfo{person}{Davor Svetinovic}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Trustworthy Blockchain Oracles: Review, Comparison,
+  and Open Research Challenges}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{85675--85685}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Alizadeh, Zamani, Shahemabad, Shayan, and
+  Azarnik}{Alizadeh et~al\mbox{.}}{2012}]%
+        {alizadeh2012survey}
+\bibfield{author}{\bibinfo{person}{Mojtaba Alizadeh}, \bibinfo{person}{Mazdak
+  Zamani}, \bibinfo{person}{Ali~Rafiei Shahemabad}, \bibinfo{person}{Jafar
+  Shayan}, {and} \bibinfo{person}{Ahmad Azarnik}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{A survey on attacks in RFID networks}.
+\newblock \bibinfo{journal}{\emph{Open International Journal of Informatics
+  (OIJI)}} \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{2012}),
+  \bibinfo{pages}{15--24}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Angeris and Chitra}{Angeris and
+  Chitra}{2020}]%
+        {angeris2020improved}
+\bibfield{author}{\bibinfo{person}{Guillermo Angeris} {and}
+  \bibinfo{person}{Tarun Chitra}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Improved Price Oracles: Constant Function Market
+  Makers}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2003.10001}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Atzei, Bartoletti, and Cimoli}{Atzei
+  et~al\mbox{.}}{2017}]%
+        {atzei2017survey}
+\bibfield{author}{\bibinfo{person}{Nicola Atzei}, \bibinfo{person}{Massimo
+  Bartoletti}, {and} \bibinfo{person}{Tiziana Cimoli}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A survey of attacks on ethereum smart contracts
+  (sok)}. In \bibinfo{booktitle}{\emph{International conference on principles
+  of security and trust}}. Springer, \bibinfo{pages}{164--186}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Balancer}{Balancer}{2020}]%
+        {balancer}
+\bibfield{author}{\bibinfo{person}{Balancer}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A protocol for programmable liquidity}.
+\newblock \bibinfo{journal}{\emph{URl: https://balancer.finance/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Benligiray, Milic, and
+  V{\"a}nttinen}{Benligiray et~al\mbox{.}}{[n.d.]}]%
+        {benligiraydecentralized}
+\bibfield{author}{\bibinfo{person}{Burak Benligiray},
+  \bibinfo{person}{Sa{\v{s}}a Milic}, {and} \bibinfo{person}{Heikki
+  V{\"a}nttinen}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{Decentralized APIs for Web 3.0}.
+\newblock  (\bibinfo{year}{[n.\,d.]}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bernani}{Bernani}{2016}]%
+        {bernanioraclize}
+\bibfield{author}{\bibinfo{person}{T Bernani}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Oraclize}.
+\newblock \bibinfo{journal}{\emph{URl: https://www.oraclize.it/}}
+  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Biryukov, Khovratovich, and
+  Tikhomirov}{Biryukov et~al\mbox{.}}{2017}]%
+        {biryukov2017findel}
+\bibfield{author}{\bibinfo{person}{Alex Biryukov}, \bibinfo{person}{Dmitry
+  Khovratovich}, {and} \bibinfo{person}{Sergei Tikhomirov}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Findel: Secure derivative contracts for Ethereum}.
+  In \bibinfo{booktitle}{\emph{International Conference on Financial
+  Cryptography and Data Security}}. Springer, \bibinfo{pages}{453--467}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bissias, Levine, Ozisik, and Andresen}{Bissias
+  et~al\mbox{.}}{2016}]%
+        {bissias2016analysis}
+\bibfield{author}{\bibinfo{person}{George Bissias}, \bibinfo{person}{Brian~Neil
+  Levine}, \bibinfo{person}{A~Pinar Ozisik}, {and} \bibinfo{person}{Gavin
+  Andresen}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{An analysis of attacks on blockchain consensus}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1610.07985}}
+  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Blog}{Blog}{2021}]%
+        {chainlinknft}
+\bibfield{author}{\bibinfo{person}{Chainlink Blog}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{16 Ways to Create Dynamic Non-Fungible Tokens (NFT)
+  Using Chainlink Oracles}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.chain.link/create-dynamic-nfts-using-chainlink-oracles/}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Boneh, Bonneau, B{\"u}nz, and Fisch}{Boneh
+  et~al\mbox{.}}{2018}]%
+        {crypto-2018-28858}
+\bibfield{author}{\bibinfo{person}{Dan Boneh}, \bibinfo{person}{Joseph
+  Bonneau}, \bibinfo{person}{Benedikt B{\"u}nz}, {and} \bibinfo{person}{Ben
+  Fisch}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Verifiable Delay Functions}. In
+  \bibinfo{booktitle}{\emph{Advances in Cryptology -- CRYPTO 2018}}
+  \emph{(\bibinfo{series}{Lecture Notes in Computer Science},
+  Vol.~\bibinfo{volume}{10991})}. \bibinfo{publisher}{Springer},
+  \bibinfo{pages}{757--788}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-319-96884-1_25}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Brassard, Chaum, and Cr{\'e}peau}{Brassard
+  et~al\mbox{.}}{1988}]%
+        {brassard1988minimum}
+\bibfield{author}{\bibinfo{person}{Gilles Brassard}, \bibinfo{person}{David
+  Chaum}, {and} \bibinfo{person}{Claude Cr{\'e}peau}.}
+  \bibinfo{year}{1988}\natexlab{}.
+\newblock \showarticletitle{Minimum disclosure proofs of knowledge}.
+\newblock \bibinfo{journal}{\emph{Journal of computer and system sciences}}
+  \bibinfo{volume}{37}, \bibinfo{number}{2} (\bibinfo{year}{1988}),
+  \bibinfo{pages}{156--189}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Brasser, M{\"u}ller, Dmitrienko, Kostiainen,
+  Capkun, and Sadeghi}{Brasser et~al\mbox{.}}{2017}]%
+        {brasser2017software}
+\bibfield{author}{\bibinfo{person}{Ferdinand Brasser}, \bibinfo{person}{Urs
+  M{\"u}ller}, \bibinfo{person}{Alexandra Dmitrienko}, \bibinfo{person}{Kari
+  Kostiainen}, \bibinfo{person}{Srdjan Capkun}, {and}
+  \bibinfo{person}{Ahmad-Reza Sadeghi}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Software grand exposure:$\{$SGX$\}$ cache attacks
+  are practical}. In \bibinfo{booktitle}{\emph{11th $\{$USENIX$\}$ Workshop on
+  Offensive Technologies ($\{$WOOT$\}$ 17)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Breidenbach, Cachin, Coventry, Juels, and
+  Miller}{Breidenbach et~al\mbox{.}}{2021}]%
+        {chainlinkocr}
+\bibfield{author}{\bibinfo{person}{Lorenz Breidenbach},
+  \bibinfo{person}{Christian Cachin}, \bibinfo{person}{Alex Coventry},
+  \bibinfo{person}{Ari Juels}, {and} \bibinfo{person}{Andrew Miller}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Chainlink Off-chain Reporting Protocol}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.chain.link/off-chain-reporting-live-on-mainnet/}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{B{\"u}nz, Goldfeder, and Bonneau}{B{\"u}nz
+  et~al\mbox{.}}{2017}]%
+        {bunz2017proofs}
+\bibfield{author}{\bibinfo{person}{Benedikt B{\"u}nz}, \bibinfo{person}{Steven
+  Goldfeder}, {and} \bibinfo{person}{Joseph Bonneau}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Proofs-of-delay and randomness beacons in
+  ethereum}.
+\newblock \bibinfo{journal}{\emph{IEEE Security and Privacy on the blockchain
+  (IEEE S\&B)}} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Buterin}{Buterin}{2021}]%
+        {vitalikuni}
+\bibfield{author}{\bibinfo{person}{Vitalik Buterin}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{UNI should become an oracle token}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://gov.uniswap.org/t/uni-should-become-an-oracle-token/11988}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Castro and Liskov}{Castro and Liskov}{2002}]%
+        {castro2002practical}
+\bibfield{author}{\bibinfo{person}{Miguel Castro} {and}
+  \bibinfo{person}{Barbara Liskov}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Practical Byzantine fault tolerance and proactive
+  recovery}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Computer Systems (TOCS)}}
+  \bibinfo{volume}{20}, \bibinfo{number}{4} (\bibinfo{year}{2002}),
+  \bibinfo{pages}{398--461}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chainlink}{Chainlink}{2020}]%
+        {chainlinkvrf}
+\bibfield{author}{\bibinfo{person}{Chainlink}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Chainlink VRF: On-chain Verifiable Randomness}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{ChainLink}{ChainLink}{2020}]%
+        {linkOracleProblem}
+\bibfield{author}{\bibinfo{person}{ChainLink}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{What is the Blockchain Oracle Problem}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.chain.link/what-is-the-blockchain-oracle-problem/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chatterjee, Goharshady, and
+  Pourdamghani}{Chatterjee et~al\mbox{.}}{2019}]%
+        {chatterjee2019probabilistic}
+\bibfield{author}{\bibinfo{person}{Krishnendu Chatterjee},
+  \bibinfo{person}{Amir~Kafshdar Goharshady}, {and} \bibinfo{person}{Arash
+  Pourdamghani}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Probabilistic smart contracts: Secure randomness on
+  the blockchain}. In \bibinfo{booktitle}{\emph{2019 IEEE International
+  Conference on Blockchain and Cryptocurrency (ICBC)}}. IEEE,
+  \bibinfo{pages}{403--412}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chen, Pendleton, Njilla, and Xu}{Chen
+  et~al\mbox{.}}{2020}]%
+        {chen2020survey}
+\bibfield{author}{\bibinfo{person}{Huashan Chen}, \bibinfo{person}{Marcus
+  Pendleton}, \bibinfo{person}{Laurent Njilla}, {and} \bibinfo{person}{Shouhuai
+  Xu}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A Survey on Ethereum Systems Security:
+  Vulnerabilities, Attacks, and Defenses}.
+\newblock \bibinfo{journal}{\emph{ACM Computing Surveys (CSUR)}}
+  \bibinfo{volume}{53}, \bibinfo{number}{3} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--43}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Clark, Bonneau, Felten, Kroll, Miller, and
+  Narayanan}{Clark et~al\mbox{.}}{2014}]%
+        {clark2014decentralizing}
+\bibfield{author}{\bibinfo{person}{Jeremy Clark}, \bibinfo{person}{Joseph
+  Bonneau}, \bibinfo{person}{Edward~W Felten}, \bibinfo{person}{Joshua~A
+  Kroll}, \bibinfo{person}{Andrew Miller}, {and} \bibinfo{person}{Arvind
+  Narayanan}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{On decentralizing prediction markets and order
+  books}. In \bibinfo{booktitle}{\emph{Workshop on the Economics of Information
+  Security, State College, Pennsylvania}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Clark, Demirag, and Moosavi}{Clark
+  et~al\mbox{.}}{2020}]%
+        {clark2019sok}
+\bibfield{author}{\bibinfo{person}{Jeremy Clark}, \bibinfo{person}{Didem
+  Demirag}, {and} \bibinfo{person}{Seyedehmahsa Moosavi}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{SoK: Demystifying Stablecoins}.
+\newblock \bibinfo{journal}{\emph{CACM}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Clark and Van~Oorschot}{Clark and
+  Van~Oorschot}{2013}]%
+        {clark2013sok}
+\bibfield{author}{\bibinfo{person}{Jeremy Clark} {and} \bibinfo{person}{Paul~C
+  Van~Oorschot}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{SoK: SSL and HTTPS: Revisiting past challenges and
+  evaluating certificate trust model enhancements}. In
+  \bibinfo{booktitle}{\emph{2013 IEEE Symposium on Security and Privacy}}.
+  IEEE, \bibinfo{pages}{511--525}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Coinmonk}{Coinmonk}{2019}]%
+        {coinmonkMKRgovernance}
+\bibfield{author}{\bibinfo{person}{Coinmonk}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Vulnerabilities in Maker: Oracle-Governance
+  Attacks, Attack DAOs, and (De)Centralization}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://medium.com/coinmonks/vulnerabilities-in-maker-oracle-governance-attacks-attack-daos-and-de-centralization-d943685adc2f}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Compound}{Compound}{2020}]%
+        {compoundPriceFeed}
+\bibfield{author}{\bibinfo{person}{Compound}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Open Price Feed}.
+\newblock \bibinfo{journal}{\emph{URl: https://compound.finance/docs/prices}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Consensys}{Consensys}{2020}]%
+        {attacksonethereum}
+\bibfield{author}{\bibinfo{person}{Consensys}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Ethereum Smart Contract Best Practices}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Core}{Core}{2019}]%
+        {tellordispute}
+\bibfield{author}{\bibinfo{person}{Tellor Core}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Staking, Disputes, and Voting}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://medium.com/tellor/staking-disputes-and-voting-ad09c66eb7bc/}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Costan and Devadas}{Costan and
+  Devadas}{2016}]%
+        {costan2016intel}
+\bibfield{author}{\bibinfo{person}{Victor Costan} {and}
+  \bibinfo{person}{Srinivas Devadas}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Intel SGX Explained.}
+\newblock \bibinfo{journal}{\emph{IACR Cryptol. ePrint Arch.}}
+  \bibinfo{volume}{2016}, \bibinfo{number}{86} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{1--118}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Crypto}{Crypto}{2020}]%
+        {chainlinkdosattack}
+\bibfield{author}{\bibinfo{person}{The~Block Crypto}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Chainlink nodes were targeted in an attack last
+  weekend that cost them at least 700 ETH}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://www.theblockcrypto.com/post/76986/chainlink-nodes-attack-eth}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Crypto}{Crypto}{2021}]%
+        {defiattacksreport}
+\bibfield{author}{\bibinfo{person}{The~Block Crypto}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{DeFi attacks: the general picture}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://www.theblockcrypto.com/research/105472/defi-attacks-the-general-picture}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Daian, Goldfeder, Kell, Li, Zhao, Bentov,
+  Breidenbach, and Juels}{Daian et~al\mbox{.}}{2020}]%
+        {daian2020flash}
+\bibfield{author}{\bibinfo{person}{Philip Daian}, \bibinfo{person}{Steven
+  Goldfeder}, \bibinfo{person}{Tyler Kell}, \bibinfo{person}{Yunqi Li},
+  \bibinfo{person}{Xueyuan Zhao}, \bibinfo{person}{Iddo Bentov},
+  \bibinfo{person}{Lorenz Breidenbach}, {and} \bibinfo{person}{Ari Juels}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Flash boys 2.0: Frontrunning in decentralized
+  exchanges, miner extractable value, and consensus instability}. In
+  \bibinfo{booktitle}{\emph{2020 IEEE Symposium on Security and Privacy (SP)}}.
+  IEEE, \bibinfo{pages}{910--927}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Daian, Kell, Miers, and Juels}{Daian
+  et~al\mbox{.}}{2018}]%
+        {darkdao}
+\bibfield{author}{\bibinfo{person}{Philip Daian}, \bibinfo{person}{Tyler Kell},
+  \bibinfo{person}{Ian Miers}, {and} \bibinfo{person}{Ari Juels}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{On-Chain Vote Buying and the Rise of Dark DAOs}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://hackingdistributed.com/2018/07/02/on-chain-vote-buying/}}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Decrypt}{Decrypt}{2020}]%
+        {compoundcoinbasepro}
+\bibfield{author}{\bibinfo{person}{Decrypt}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Oracle Exploit Sees \$89 Million Liquidated on
+  Compound}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://decrypt.co/49657/oracle-exploit-sees-100-million-liquidated-on-compound}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{DIA}{DIA}{2020}]%
+        {DIAOracle}
+\bibfield{author}{\bibinfo{person}{DIA}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{DIA --- Transparent Oracles for a Decentralised
+  Financial Ecosystem}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{DODO}{DODO}{2020}]%
+        {dodopmm}
+\bibfield{author}{\bibinfo{person}{DODO}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The DODO Advantage}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://dodoex.github.io/docs/docs/advantages}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Douceur}{Douceur}{2002}]%
+        {douceur2002sybil}
+\bibfield{author}{\bibinfo{person}{John~R Douceur}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{The sybil attack}. In
+  \bibinfo{booktitle}{\emph{International workshop on peer-to-peer systems}}.
+  Springer, \bibinfo{pages}{251--260}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ellis, Juels, and Nazarov}{Ellis
+  et~al\mbox{.}}{2017}]%
+        {ellis2017chainlink}
+\bibfield{author}{\bibinfo{person}{Steve Ellis}, \bibinfo{person}{Ari Juels},
+  {and} \bibinfo{person}{Sergey Nazarov}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Chainlink: A decentralized oracle network}.
+\newblock \bibinfo{journal}{\emph{Retrieved March}}  \bibinfo{volume}{11}
+  (\bibinfo{year}{2017}), \bibinfo{pages}{2018}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eskandari}{Eskandari}{2020}]%
+        {etherollincident}
+\bibfield{author}{\bibinfo{person}{Shayan Eskandari}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{EtherRoll Bug Thread}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://twitter.com/sbetamc/status/1263220679937265671}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eskandari, Barrera, Stobert, and
+  Clark}{Eskandari et~al\mbox{.}}{2015}]%
+        {EBSC15}
+\bibfield{author}{\bibinfo{person}{S Eskandari}, \bibinfo{person}{D Barrera},
+  \bibinfo{person}{E Stobert}, {and} \bibinfo{person}{J Clark}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{A first look at the usability of {B}itcoin key
+  management}. In \bibinfo{booktitle}{\emph{USEC}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eskandari, Clark, Sundaresan, and
+  Adham}{Eskandari et~al\mbox{.}}{2017}]%
+        {eskandari2017feasibility}
+\bibfield{author}{\bibinfo{person}{Shayan Eskandari}, \bibinfo{person}{Jeremy
+  Clark}, \bibinfo{person}{Vignesh Sundaresan}, {and} \bibinfo{person}{Moe
+  Adham}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{On the feasibility of decentralized derivatives
+  markets}. In \bibinfo{booktitle}{\emph{International Conference on Financial
+  Cryptography and Data Security}}. Springer, \bibinfo{pages}{553--567}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eskandari, Moosavi, and Clark}{Eskandari
+  et~al\mbox{.}}{2019}]%
+        {eskandari2019sok}
+\bibfield{author}{\bibinfo{person}{Shayan Eskandari},
+  \bibinfo{person}{Seyedehmahsa Moosavi}, {and} \bibinfo{person}{Jeremy
+  Clark}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Sok: Transparent dishonesty: front-running attacks
+  on blockchain}. In \bibinfo{booktitle}{\emph{International Conference on
+  Financial Cryptography and Data Security}}. Springer,
+  \bibinfo{pages}{170--189}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ethereum}{Ethereum}{2015}]%
+        {geth}
+\bibfield{author}{\bibinfo{person}{Ethereum}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \bibinfo{title}{Official Go implementation of the Ethereum protocol}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Etheroll}{Etheroll}{2020}]%
+        {etheroll}
+\bibfield{author}{\bibinfo{person}{Etheroll}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Ethereum casino}.
+\newblock \bibinfo{journal}{\emph{URl: https://etheroll.com/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Firat, Madnick, and Grosof}{Firat
+  et~al\mbox{.}}{2002}]%
+        {firat2002knowledge}
+\bibfield{author}{\bibinfo{person}{Aykut Firat}, \bibinfo{person}{Stuart
+  Madnick}, {and} \bibinfo{person}{Benjamin Grosof}.}
+  \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Knowledge integration to overcome ontological
+  heterogeneity: Challenges from financial information systems}.
+\newblock  (\bibinfo{year}{2002}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Flashbots}{Flashbots}{2021}]%
+        {flashbots}
+\bibfield{author}{\bibinfo{person}{Flashbots}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Flashbots}.
+\newblock \bibinfo{journal}{\emph{URl: https://github.com/flashbots/pm}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ford and B{\"o}hme}{Ford and
+  B{\"o}hme}{2019}]%
+        {FoBo19}
+\bibfield{author}{\bibinfo{person}{Bryan Ford} {and} \bibinfo{person}{Rainer
+  B{\"o}hme}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Rationality is Self-Defeating in Permissionless
+  Systems}.
+\newblock
+\newblock
+\showeprint[arxiv]{1910.08820}~[cs.CR]
+
+
+\bibitem[\protect\citeauthoryear{Forum}{Forum}{2020}]%
+        {makerdaooutage}
+\bibfield{author}{\bibinfo{person}{MakerDAO Forum}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Scientific Governance and Risk \#120}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://forum.makerdao.com/t/agenda-discussion-scientific-governance-and-risk-120-thursday-december-3-16-00-utc/5357}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Goldberg, Papadopoulos, and V{\v
+  c}el{\'a}k}{Goldberg et~al\mbox{.}}{2017}]%
+        {goldbe-vrf-01}
+\bibfield{author}{\bibinfo{person}{Sharon Goldberg}, \bibinfo{person}{Dimitrios
+  Papadopoulos}, {and} \bibinfo{person}{Jan V{\v c}el{\'a}k}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Verifiable Random Functions (VRFs)}}}.
+\newblock \bibinfo{type}{Internet-Draft} draft-goldbe-vrf-01.
+  \bibinfo{institution}{Internet Engineering Task Force}.
+\newblock
+\urldef\tempurl%
+\url{https://datatracker.ietf.org/doc/html/draft-goldbe-vrf-01}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Work in Progress.}
+
+
+\bibitem[\protect\citeauthoryear{Gramoli}{Gramoli}{2020}]%
+        {gramoli2020blockchain}
+\bibfield{author}{\bibinfo{person}{Vincent Gramoli}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{From blockchain consensus back to Byzantine
+  consensus}.
+\newblock \bibinfo{journal}{\emph{Future Generation Computer Systems}}
+  \bibinfo{volume}{107} (\bibinfo{year}{2020}), \bibinfo{pages}{760--769}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gu, Raghuvanshi, and Boneh}{Gu
+  et~al\mbox{.}}{2020}]%
+        {gu2020empirical}
+\bibfield{author}{\bibinfo{person}{Wanyun~Catherine Gu}, \bibinfo{person}{Anika
+  Raghuvanshi}, {and} \bibinfo{person}{Dan Boneh}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Empirical Measurements on Pricing Oracles and
+  Decentralized Governance for Stablecoins}.
+\newblock \bibinfo{journal}{\emph{Available at SSRN 3611231}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hakimpour and Geppert}{Hakimpour and
+  Geppert}{2001}]%
+        {hakimpour2001resolving}
+\bibfield{author}{\bibinfo{person}{Farshad Hakimpour} {and}
+  \bibinfo{person}{Andreas Geppert}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Resolving semantic heterogeneity in schema
+  integration}. In \bibinfo{booktitle}{\emph{Proceedings of the international
+  conference on Formal Ontology in Information Systems-Volume 2001}}.
+  \bibinfo{pages}{297--308}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hanson}{Hanson}{2003}]%
+        {hanson2003combinatorial}
+\bibfield{author}{\bibinfo{person}{Robin Hanson}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \showarticletitle{Combinatorial information market design}.
+\newblock \bibinfo{journal}{\emph{Information Systems Frontiers}}
+  \bibinfo{volume}{5}, \bibinfo{number}{1} (\bibinfo{year}{2003}),
+  \bibinfo{pages}{107--119}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Heilman, Kendler, Zohar, and Goldberg}{Heilman
+  et~al\mbox{.}}{2015}]%
+        {heilman2015eclipse}
+\bibfield{author}{\bibinfo{person}{Ethan Heilman}, \bibinfo{person}{Alison
+  Kendler}, \bibinfo{person}{Aviv Zohar}, {and} \bibinfo{person}{Sharon
+  Goldberg}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Eclipse attacks on bitcoin's peer-to-peer network}.
+  In \bibinfo{booktitle}{\emph{24th $\{$USENIX$\}$ Security Symposium
+  ($\{$USENIX$\}$ Security 15)}}. \bibinfo{pages}{129--144}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Henningsen, Teunis, Florian, and
+  Scheuermann}{Henningsen et~al\mbox{.}}{2019}]%
+        {henningsen2019eclipsing}
+\bibfield{author}{\bibinfo{person}{Sebastian Henningsen},
+  \bibinfo{person}{Daniel Teunis}, \bibinfo{person}{Martin Florian}, {and}
+  \bibinfo{person}{Bj{\"o}rn Scheuermann}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Eclipsing ethereum peers with false friends}. In
+  \bibinfo{booktitle}{\emph{2019 IEEE European Symposium on Security and
+  Privacy Workshops (EuroS\&PW)}}. IEEE, \bibinfo{pages}{300--309}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{{Herley} and {Van Oorschot}}{{Herley} and {Van
+  Oorschot}}{2017}]%
+        {HvO17}
+\bibfield{author}{\bibinfo{person}{C. {Herley}} {and} \bibinfo{person}{P.~C.
+  {Van Oorschot}}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{SoK: Science, Security and the Elusive Goal of
+  Security as a Scientific Pursuit}. In \bibinfo{booktitle}{\emph{2017 IEEE
+  Symposium on Security and Privacy (SP)}}. \bibinfo{pages}{99--120}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/SP.2017.38}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hertzog, Benartzi, and Benartzi}{Hertzog
+  et~al\mbox{.}}{2017}]%
+        {hertzog2017bancor}
+\bibfield{author}{\bibinfo{person}{Eyal Hertzog}, \bibinfo{person}{Guy
+  Benartzi}, {and} \bibinfo{person}{Galiar Benartzi}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Bancor protocol: continuous liquidity for
+  cryptographic tokens through their smart contracts}.
+\newblock \bibinfo{journal}{\emph{White paper}} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Insight}{Insight}{2020}]%
+        {huobiDeFiLabs}
+\bibfield{author}{\bibinfo{person}{Huobi~DeFiLabs Insight}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Price Oracle - A Must Have Infrastructure}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://www.huobidefilabs.io/en/Insight/1313163603254243330/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kalodner, Goldfeder, Chen, Weinberg, and
+  Felten}{Kalodner et~al\mbox{.}}{2018}]%
+        {KGCWF18}
+\bibfield{author}{\bibinfo{person}{Harry Kalodner}, \bibinfo{person}{Steven
+  Goldfeder}, \bibinfo{person}{Xiaoqi Chen}, \bibinfo{person}{S.~Matthew
+  Weinberg}, {and} \bibinfo{person}{Edward~W. Felten}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Arbitrum: Scalable, private smart contracts}. In
+  \bibinfo{booktitle}{\emph{USENIX Security}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Khovratovich and Law}{Khovratovich and
+  Law}{2017}]%
+        {KL17}
+\bibfield{author}{\bibinfo{person}{Dmitry Khovratovich} {and}
+  \bibinfo{person}{Jason Law}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Sovrin: digital identities in the
+  blockchain era}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}. \bibinfo{institution}{Sovrin}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kroll, Davey, and Felten}{Kroll
+  et~al\mbox{.}}{2013}]%
+        {kroll2013economics}
+\bibfield{author}{\bibinfo{person}{Joshua~A Kroll}, \bibinfo{person}{Ian~C
+  Davey}, {and} \bibinfo{person}{Edward~W Felten}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{The economics of Bitcoin mining, or Bitcoin in the
+  presence of adversaries}. In \bibinfo{booktitle}{\emph{Proceedings of WEIS}},
+  Vol.~\bibinfo{volume}{2013}. \bibinfo{pages}{11}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lambur, Lu, and Cai}{Lambur
+  et~al\mbox{.}}{2019}]%
+        {lambur2019data}
+\bibfield{author}{\bibinfo{person}{Hart Lambur}, \bibinfo{person}{Allison Lu},
+  {and} \bibinfo{person}{Regina Cai}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Uma data verification mechanism: Adding economic
+  guarantees to blockchain oracles}.
+\newblock \bibinfo{journal}{\emph{Risk Labs, Inc., Tech. Rep., Jul}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Langner}{Langner}{2020}]%
+        {stuxnetattack}
+\bibfield{author}{\bibinfo{person}{Langner}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The Stuxnet Story}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://www.langner.com/2020/07/the-stuxnet-story/}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Langner}{Langner}{2011}]%
+        {langner2011stuxnet}
+\bibfield{author}{\bibinfo{person}{Ralph Langner}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Stuxnet: Dissecting a cyberwarfare weapon}.
+\newblock \bibinfo{journal}{\emph{IEEE Security \& Privacy}}
+  \bibinfo{volume}{9}, \bibinfo{number}{3} (\bibinfo{year}{2011}),
+  \bibinfo{pages}{49--51}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lesaege, Ast, and George}{Lesaege
+  et~al\mbox{.}}{2019}]%
+        {kleros}
+\bibfield{author}{\bibinfo{person}{Clement Lesaege}, \bibinfo{person}{Federico
+  Ast}, {and} \bibinfo{person}{William George}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Kleros The Justice Protocol}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://kleros.io/static/whitepaper\_en-8bd3a0480b45c39899787e17049ded26.pdf}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lin and Liao}{Lin and Liao}{2017}]%
+        {lin2017survey}
+\bibfield{author}{\bibinfo{person}{Iuon-Chang Lin} {and}
+  \bibinfo{person}{Tzu-Chun Liao}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A survey of blockchain security issues and
+  challenges.}
+\newblock \bibinfo{journal}{\emph{IJ Network Security}} \bibinfo{volume}{19},
+  \bibinfo{number}{5} (\bibinfo{year}{2017}), \bibinfo{pages}{653--659}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu and Szalachowski}{Liu and
+  Szalachowski}{2020}]%
+        {liu2020first}
+\bibfield{author}{\bibinfo{person}{Bowen Liu} {and} \bibinfo{person}{Pawel
+  Szalachowski}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A First Look into DeFi Oracles}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2005.04377}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lo, Xu, Staples, and Yao}{Lo
+  et~al\mbox{.}}{2020}]%
+        {lo2020reliability}
+\bibfield{author}{\bibinfo{person}{Sin~Kuang Lo}, \bibinfo{person}{Xiwei Xu},
+  \bibinfo{person}{Mark Staples}, {and} \bibinfo{person}{Lina Yao}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Reliability analysis for blockchain oracles}.
+\newblock \bibinfo{journal}{\emph{Computers \& Electrical Engineering}}
+  \bibinfo{volume}{83} (\bibinfo{year}{2020}), \bibinfo{pages}{106582}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{LongForWisdom}{LongForWisdom}{2020}]%
+        {makerdaoflashloanattack}
+\bibfield{author}{\bibinfo{person}{LongForWisdom}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Flash Loans and securing the Maker Protocol}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://forum.makerdao.com/t/urgent-flash-loans-and-securing-the-maker-protocol/4901}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Madnick and Zhu}{Madnick and Zhu}{2006}]%
+        {madnick2006improving}
+\bibfield{author}{\bibinfo{person}{Stuart Madnick} {and}
+  \bibinfo{person}{Hongwei Zhu}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Improving data quality through effective use of
+  data semantics}.
+\newblock \bibinfo{journal}{\emph{Data \& Knowledge Engineering}}
+  \bibinfo{volume}{59}, \bibinfo{number}{2} (\bibinfo{year}{2006}),
+  \bibinfo{pages}{460--475}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{MakerDAO}{MakerDAO}{2019}]%
+        {MAKERDAOOracle}
+\bibfield{author}{\bibinfo{person}{MakerDAO}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Introducing Oracles V2 and DeFi Feeds}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Maram, Malvai, Zhang, Jean-Louis, Frolov,
+  Kell, Lobban, Moy, Juels, and Miller}{Maram et~al\mbox{.}}{2021}]%
+        {maram2021candid}
+\bibfield{author}{\bibinfo{person}{Deepak Maram}, \bibinfo{person}{Harjasleen
+  Malvai}, \bibinfo{person}{Fan Zhang}, \bibinfo{person}{Nerla Jean-Louis},
+  \bibinfo{person}{Alexander Frolov}, \bibinfo{person}{Tyler Kell},
+  \bibinfo{person}{Tyrone Lobban}, \bibinfo{person}{Christine Moy},
+  \bibinfo{person}{Ari Juels}, {and} \bibinfo{person}{Andrew Miller}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Candid: can-do decentralized identity with legacy
+  compatibility, sybil-resistance, and accountability}. In
+  \bibinfo{booktitle}{\emph{2021 IEEE Symposium on Security and Privacy (SP)}}.
+  IEEE, \bibinfo{pages}{1348--1366}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Micali, Rabin, and Vadhan}{Micali
+  et~al\mbox{.}}{1999}]%
+        {micali1999verifiable}
+\bibfield{author}{\bibinfo{person}{Silvio Micali}, \bibinfo{person}{Michael
+  Rabin}, {and} \bibinfo{person}{Salil Vadhan}.}
+  \bibinfo{year}{1999}\natexlab{}.
+\newblock \showarticletitle{Verifiable random functions}. In
+  \bibinfo{booktitle}{\emph{40th annual symposium on foundations of computer
+  science (cat. No. 99CB37039)}}. IEEE, \bibinfo{pages}{120--130}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Moin, Sekniqi, and Sirer}{Moin
+  et~al\mbox{.}}{2020}]%
+        {MSS20}
+\bibfield{author}{\bibinfo{person}{Amani Moin}, \bibinfo{person}{Kevin
+  Sekniqi}, {and} \bibinfo{person}{Emin~Gun Sirer}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{SoK: A Classification Framework for Stablecoin
+  Designs}. In \bibinfo{booktitle}{\emph{Financial Cryptography}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mondal, Wijewardena, Karuppuswami, Kriti,
+  Kumar, and Chahal}{Mondal et~al\mbox{.}}{2019}]%
+        {mondal2019blockchain}
+\bibfield{author}{\bibinfo{person}{Saikat Mondal}, \bibinfo{person}{Kanishka~P
+  Wijewardena}, \bibinfo{person}{Saranraj Karuppuswami}, \bibinfo{person}{Nitya
+  Kriti}, \bibinfo{person}{Deepak Kumar}, {and} \bibinfo{person}{Premjeet
+  Chahal}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Blockchain inspired RFID-based information
+  architecture for food supply chain}.
+\newblock \bibinfo{journal}{\emph{IEEE Internet of Things Journal}}
+  \bibinfo{volume}{6}, \bibinfo{number}{3} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{5803--5813}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{M{\"u}ller and Grandi}{M{\"u}ller and
+  Grandi}{2000}]%
+        {muller2000weather}
+\bibfield{author}{\bibinfo{person}{Andreas M{\"u}ller} {and}
+  \bibinfo{person}{Marcel Grandi}.} \bibinfo{year}{2000}\natexlab{}.
+\newblock \showarticletitle{Weather derivatives: a risk management tool for
+  weather-sensitive industries}.
+\newblock \bibinfo{journal}{\emph{The Geneva Papers on Risk and Insurance.
+  Issues and Practice}} \bibinfo{volume}{25}, \bibinfo{number}{2}
+  (\bibinfo{year}{2000}), \bibinfo{pages}{273--287}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mutual}{Mutual}{2020}]%
+        {nexusmutualbug}
+\bibfield{author}{\bibinfo{person}{Nexus Mutual}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Responsible Vulnerability Disclosure}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://medium.com/nexus-mutual/responsible-vulnerability-disclosure-ece3fe3bcefa}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{NEST}{NEST}{2020}]%
+        {nestwhitepaper}
+\bibfield{author}{\bibinfo{person}{NEST}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{NEST Protocol: A Distributed Price Oracle Network}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://nestprotocol.org/doc/ennestwhitepaper.pdf}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Neudecker, Andelfinger, and
+  Hartenstein}{Neudecker et~al\mbox{.}}{2015}]%
+        {neudecker2015simulation}
+\bibfield{author}{\bibinfo{person}{Till Neudecker}, \bibinfo{person}{Philipp
+  Andelfinger}, {and} \bibinfo{person}{Hannes Hartenstein}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{A simulation model for analysis of attacks on the
+  bitcoin peer-to-peer network}. In \bibinfo{booktitle}{\emph{2015 IFIP/IEEE
+  International Symposium on Integrated Network Management (IM)}}. IEEE,
+  \bibinfo{pages}{1327--1332}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Neudecker and Hartenstein}{Neudecker and
+  Hartenstein}{2019}]%
+        {neudecker2019short}
+\bibfield{author}{\bibinfo{person}{Till Neudecker} {and}
+  \bibinfo{person}{Hannes Hartenstein}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Short paper: An empirical analysis of blockchain
+  forks in bitcoin}. In \bibinfo{booktitle}{\emph{International Conference on
+  Financial Cryptography and Data Security}}. Springer,
+  \bibinfo{pages}{84--92}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Oracle}{Oracle}{2021}]%
+        {chainlinkExplicitStaking}
+\bibfield{author}{\bibinfo{person}{ChainLink Oracle}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Explicit Staking in Chainlink 2.0: An Overview}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.chain.link/explicit-staking-in-chainlink-2-0/}}
+  (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{PeckShield}{PeckShield}{2020}]%
+        {bzxPeckShield}
+\bibfield{author}{\bibinfo{person}{PeckShield}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{bZx Hack II Full Disclosure (With Detailed Profit
+  Analysis)}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pernice, Henningsen, Proskalovich, Florian,
+  and Elendner}{Pernice et~al\mbox{.}}{2019}]%
+        {PHP+19}
+\bibfield{author}{\bibinfo{person}{Ingolf G~A Pernice},
+  \bibinfo{person}{Sebastian Henningsen}, \bibinfo{person}{Roman Proskalovich},
+  \bibinfo{person}{Martin Florian}, {and} \bibinfo{person}{Hermann Elendner}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Monetary Stabilization in Cryptocurrencies: Design
+  Approaches and Open Questions}. In \bibinfo{booktitle}{\emph{CVCBT}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Peterson and Krug}{Peterson and Krug}{2015}]%
+        {peterson2015augur}
+\bibfield{author}{\bibinfo{person}{Jack Peterson} {and} \bibinfo{person}{Joseph
+  Krug}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Augur: a decentralized, open-source platform for
+  prediction markets}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv: 1501.01042}}
+  (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{PoolTogether}{PoolTogether}{2020}]%
+        {pooltogether}
+\bibfield{author}{\bibinfo{person}{PoolTogether}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{PoolTogether is a no-loss, audited savings game
+  powered by blockchain technology}.
+\newblock \bibinfo{journal}{\emph{URl: https://www.pooltogether.com/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Protocol}{Protocol}{2020}]%
+        {bandwhitepaper}
+\bibfield{author}{\bibinfo{person}{Band Protocol}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{BandChain Whitepaper}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://docs.bandchain.org/whitepaper/system-overview.html}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Qin, Zhou, Livshits, and Gervais}{Qin
+  et~al\mbox{.}}{2020}]%
+        {qin2020attacking}
+\bibfield{author}{\bibinfo{person}{Kaihua Qin}, \bibinfo{person}{Liyi Zhou},
+  \bibinfo{person}{Benjamin Livshits}, {and} \bibinfo{person}{Arthur Gervais}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Attacking the DeFi Ecosystem with Flash Loans for
+  Fun and Profit}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2003.03810}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Qureshi}{Qureshi}{2020}]%
+        {cofixblog}
+\bibfield{author}{\bibinfo{person}{Haseeb Qureshi}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Introducing CoFiX: a Next-Generation AMM}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://medium.com/dragonfly-research/introducing-cofix-a-next-generation-amm-199aea686b6b}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ruoti, Kaiser, Yerukhimovich, Clark, and
+  Cunningham}{Ruoti et~al\mbox{.}}{2020}]%
+        {RKYCC19}
+\bibfield{author}{\bibinfo{person}{Scott Ruoti}, \bibinfo{person}{Ben Kaiser},
+  \bibinfo{person}{Arkady Yerukhimovich}, \bibinfo{person}{Jeremy Clark}, {and}
+  \bibinfo{person}{Robert Cunningham}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Blockchain Technology: What is It Good For?}
+\newblock \bibinfo{journal}{\emph{Commun. ACM}} \bibinfo{volume}{63},
+  \bibinfo{number}{1} (\bibinfo{year}{2020}), \bibinfo{pages}{46--53}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Salehi, Clark, and Mannan}{Salehi
+  et~al\mbox{.}}{2021}]%
+        {SCM21}
+\bibfield{author}{\bibinfo{person}{Mehdi Salehi}, \bibinfo{person}{Jeremy
+  Clark}, {and} \bibinfo{person}{Mohammad Mannan}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Red-Black Coins: Dai without liquidations}. In
+  \bibinfo{booktitle}{\emph{Financial Cryptography: DeFi}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sallam and Beheshti}{Sallam and
+  Beheshti}{2018}]%
+        {sallam2018survey}
+\bibfield{author}{\bibinfo{person}{Suzan Sallam} {and} \bibinfo{person}{Babak~D
+  Beheshti}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{A survey on lightweight cryptographic algorithms}.
+  In \bibinfo{booktitle}{\emph{TENCON 2018-2018 IEEE Region 10 Conference}}.
+  IEEE, \bibinfo{pages}{1784--1789}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Shevchenko}{Shevchenko}{2020}]%
+        {uniswapexplained}
+\bibfield{author}{\bibinfo{person}{Andrey Shevchenko}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Uniswap and automated market makers, explained}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://cointelegraph.com/explained/uniswap-and-automated-market-makers-explained}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sonar and Upadhyay}{Sonar and
+  Upadhyay}{2014}]%
+        {sonar2014survey}
+\bibfield{author}{\bibinfo{person}{Krushang Sonar} {and}
+  \bibinfo{person}{Hardik Upadhyay}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A survey: DDOS attack on Internet of Things}.
+\newblock \bibinfo{journal}{\emph{International Journal of Engineering Research
+  and Development}} \bibinfo{volume}{10}, \bibinfo{number}{11}
+  (\bibinfo{year}{2014}), \bibinfo{pages}{58--63}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Synthetix}{Synthetix}{2019}]%
+        {synthetixIncident}
+\bibfield{author}{\bibinfo{person}{Synthetix}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Synthetix Response to Oracle Incident}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://blog.synthetix.io/response-to-oracle-incident/}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Synthetix}{Synthetix}{2020}]%
+        {synthetix}
+\bibfield{author}{\bibinfo{person}{Synthetix}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A derivatives liquidity protocol}.
+\newblock \bibinfo{journal}{\emph{URl: https://www.synthetix.io/}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sztorc}{Sztorc}{2015}]%
+        {sztorc2015truthcoin}
+\bibfield{author}{\bibinfo{person}{Paul Sztorc}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Truthcoin}.
+\newblock \bibinfo{journal}{\emph{peer-to-peer oracle system and prediction
+  marketplace.}} (\bibinfo{year}{2015}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tellor}{Tellor}{[n.d.]}]%
+        {tellorWhitepaper}
+\bibfield{author}{\bibinfo{person}{Tellor}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{{A decentralized Oracle}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://tellor.io/storage/TellorWhitepaper.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Tellor-io}{Tellor-io}{2020}]%
+        {eip2362}
+\bibfield{author}{\bibinfo{person}{Tellor-io}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{EIP-2362: Pull Oracle Interface}.
+\newblock \bibinfo{journal}{\emph{URl: https://github.com/tellor-io/EIP-2362}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tian}{Tian}{2016}]%
+        {tian2016agri}
+\bibfield{author}{\bibinfo{person}{Feng Tian}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{An agri-food supply chain traceability system for
+  China based on RFID \& blockchain technology}. In
+  \bibinfo{booktitle}{\emph{2016 13th international conference on service
+  systems and service management (ICSSSM)}}. IEEE, \bibinfo{pages}{1--6}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{TLSnotary}{TLSnotary}{2014}]%
+        {tlsnotary}
+\bibfield{author}{\bibinfo{person}{TLSnotary}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{A mechanism for independently audited https
+  sessions}.
+\newblock \bibinfo{journal}{\emph{URl: https://tlsnotary.org/TLSNotary.pdf}}
+  (\bibinfo{year}{2014}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{UMA}{UMA}{2020}]%
+        {umawhitepaper}
+\bibfield{author}{\bibinfo{person}{UMA}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{UMA Data Verification Mechanism: Adding Economic
+  Guarantees to Blockchain Oracles}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://github.com/UMAprotocol/whitepaper/blob/master/UMA-DVM-oracle-whitepaper.pdf}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Uniswap}{Uniswap}{2020}]%
+        {uniswaporacle}
+\bibfield{author}{\bibinfo{person}{Uniswap}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Uniswap Oracle}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://uniswap.org/docs/v2/core-concepts/oracles}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vasek, Thornton, and Moore}{Vasek
+  et~al\mbox{.}}{2014}]%
+        {vasek2014empirical}
+\bibfield{author}{\bibinfo{person}{Marie Vasek}, \bibinfo{person}{Micah
+  Thornton}, {and} \bibinfo{person}{Tyler Moore}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Empirical analysis of denial-of-service attacks in
+  the Bitcoin ecosystem}. In \bibinfo{booktitle}{\emph{International conference
+  on financial cryptography and data security}}. Springer,
+  \bibinfo{pages}{57--71}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{2020}]%
+        {wang2020automated}
+\bibfield{author}{\bibinfo{person}{Yongge Wang}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Automated Market Makers for Decentralized Finance
+  (DeFi)}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2009.01676}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{whiterabbit}{whiterabbit}{2020}]%
+        {blackthursdayMaker}
+\bibfield{author}{\bibinfo{person}{whiterabbit}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Black Thursday for MakerDAO: \$8.32 million was
+  liquidated for 0 DAI}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Williams and Peterson}{Williams and
+  Peterson}{2019}]%
+        {williams2019decentralized}
+\bibfield{author}{\bibinfo{person}{Austin~K Williams} {and}
+  \bibinfo{person}{Jack Peterson}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Decentralized Common Knowledge Oracles}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1912.01215}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wood and Stankovic}{Wood and
+  Stankovic}{2002}]%
+        {wood2002denial}
+\bibfield{author}{\bibinfo{person}{Anthony~D Wood} {and}
+  \bibinfo{person}{John~A Stankovic}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Denial of service in sensor networks}.
+\newblock \bibinfo{journal}{\emph{computer}} \bibinfo{volume}{35},
+  \bibinfo{number}{10} (\bibinfo{year}{2002}), \bibinfo{pages}{54--62}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wood et~al\mbox{.}}{Wood
+  et~al\mbox{.}}{2014}]%
+        {wood2014ethereum}
+\bibfield{author}{\bibinfo{person}{Gavin Wood} {et~al\mbox{.}}}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Ethereum: A secure decentralised generalised
+  transaction ledger}.
+\newblock \bibinfo{journal}{\emph{Ethereum project yellow paper}}
+  \bibinfo{volume}{151}, \bibinfo{number}{2014} (\bibinfo{year}{2014}),
+  \bibinfo{pages}{1--32}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Worboys and Deen}{Worboys and Deen}{1991}]%
+        {worboys1991semantic}
+\bibfield{author}{\bibinfo{person}{Michael~F. Worboys} {and}
+  \bibinfo{person}{S.~Misbah Deen}.} \bibinfo{year}{1991}\natexlab{}.
+\newblock \showarticletitle{Semantic heterogeneity in distributed geographic
+  databases}.
+\newblock \bibinfo{journal}{\emph{ACM Sigmod Record}} \bibinfo{volume}{20},
+  \bibinfo{number}{4} (\bibinfo{year}{1991}), \bibinfo{pages}{30--34}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zaugust}{Zaugust}{2020}]%
+        {cofixwhitepaper}
+\bibfield{author}{\bibinfo{person}{Zaugust}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{CoFiX: A Computable Trading System}.
+\newblock \bibinfo{journal}{\emph{URl:
+  https://cofix.io/doc/Trading\_Compensation\_CoFiX.pdf}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zelbst, Green, Sower, and Bond}{Zelbst
+  et~al\mbox{.}}{2019}]%
+        {zelbst2019impact}
+\bibfield{author}{\bibinfo{person}{Pamela~J Zelbst}, \bibinfo{person}{Kenneth~W
+  Green}, \bibinfo{person}{Victor~E Sower}, {and} \bibinfo{person}{Philip~L
+  Bond}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{The impact of RFID, IIoT, and Blockchain
+  technologies on supply chain transparency}.
+\newblock \bibinfo{journal}{\emph{Journal of Manufacturing Technology
+  Management}} (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Cecchetti, Croman, Juels, and
+  Shi}{Zhang et~al\mbox{.}}{2016}]%
+        {zhang2016town}
+\bibfield{author}{\bibinfo{person}{Fan Zhang}, \bibinfo{person}{Ethan
+  Cecchetti}, \bibinfo{person}{Kyle Croman}, \bibinfo{person}{Ari Juels}, {and}
+  \bibinfo{person}{Elaine Shi}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Town crier: An authenticated data feed for smart
+  contracts}. In \bibinfo{booktitle}{\emph{Proceedings of the 2016 aCM sIGSAC
+  conference on computer and communications security}}. ACM,
+  \bibinfo{pages}{270--282}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Maram, Malvai, Goldfeder, and
+  Juels}{Zhang et~al\mbox{.}}{2019}]%
+        {zhang2019deco}
+\bibfield{author}{\bibinfo{person}{Fan Zhang}, \bibinfo{person}{Sai
+  Krishna~Deepak Maram}, \bibinfo{person}{Harjasleen Malvai},
+  \bibinfo{person}{Steven Goldfeder}, {and} \bibinfo{person}{Ari Juels}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{DECO: Liberating Web Data Using Decentralized
+  Oracles for TLS}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1909.00938}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang and Lee}{Zhang and Lee}{2019}]%
+        {zhang2019double}
+\bibfield{author}{\bibinfo{person}{Shijie Zhang} {and}
+  \bibinfo{person}{Jong-Hyouk Lee}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Double-spending with a Sybil attack in the Bitcoin
+  decentralized network}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Industrial Informatics}}
+  \bibinfo{volume}{15}, \bibinfo{number}{10} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{5715--5722}.
+\newblock
+
+
+\end{thebibliography}
